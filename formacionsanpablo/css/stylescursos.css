@@ -1,0 +1,11 @@
+.formulario{
+    padding: 20px;
+    margin: 40px;
+    border: solid 1px black;
+    border-radius: 10px;
+    box-shadow: rgb(0, 0, 0) 5px 5px 10px;
+}
+
+.boton a:hover{
+    background: none;
+}

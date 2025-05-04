@@ -1,0 +1,10 @@
+.formularioCorporativo{
+    width: 50%;
+    height: auto;
+    border: solid 1px black;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #fe4000;
+    box-shadow:  10px 10px 5px black;
+}

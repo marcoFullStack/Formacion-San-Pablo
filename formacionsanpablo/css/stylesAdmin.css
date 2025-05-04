@@ -1,0 +1,13 @@
+.formulario{
+    width: 40%;
+    height: auto;
+    border: solid 1px black;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #fe4000;
+    box-shadow:  10px 10px 5px black;
+}
+
+.fondo{
+    background-image: url(../images/iglesia\ san\ pablo.JPG);
+}

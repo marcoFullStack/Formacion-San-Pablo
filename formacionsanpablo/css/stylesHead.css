@@ -1,0 +1,71 @@
+.colorCorporativo1{
+    background-color: #232323
+}
+
+.colorCorporativo2{
+    background-color: #fe4000;
+}
+
+.open-button {
+    color: white;
+    cursor: pointer;
+}
+  
+.form-popup {
+    display: none;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: #fe4000;
+    border-radius: 20px;
+}
+
+.form-container .btn {
+    background-color: #232323;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.botonCorporativo{
+    background-color: #fe4000;
+    border-radius: 20px;
+    padding: 5px;
+    color: #232323;
+    text-decoration: none;
+}
+
+.botonCorporativo a:hover{
+    background-color: #fe4000;
+    border-radius: 20px;
+    padding: 5px;
+    color: #232323;
+}
+
+.navbar-toggler-icon{
+    background-color: #fe4000;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #232323;
+    border-radius: 10px;
+
+}
+
+.navegador{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.hr{
+    border: #232323 solid 1px;
+}

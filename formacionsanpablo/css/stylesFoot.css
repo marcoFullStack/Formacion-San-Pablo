@@ -1,0 +1,60 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: #e14b17;
+    padding-bottom: 10px;
+}
+
+.colorCorporativo{
+    color: #e14b17;
+}
+
+.face{
+    background-color: white;
+    padding-left: 8px;
+    text-decoration: none;
+    color: #e14b17;
+    border-radius: 50%;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.sepe{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.junta{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.ecyl{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.politicas a:hover{
+    background: none;
+}
+
+.icono{
+    background-color: #25D366;
+    color: white;
+    padding: 5px 9px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-size: 16px;
+    margin-right: 20px;
+    z-index: 1000;
+    position: sticky;
+    z-index: 1000;
+}
+
+.nohover a:hover{
+    background: none;
+}

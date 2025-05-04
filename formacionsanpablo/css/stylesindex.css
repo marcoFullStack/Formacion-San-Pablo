@@ -1,0 +1,63 @@
+.colorCorporativo{
+    color: #fe4000;
+}
+
+.fondo{
+    height: 300px;
+    background-image: url(../images/iglesia\ san\ pablo.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.color{
+    color: #ffffff;
+    font-size: 60px;
+    text-shadow: rgb(0, 0, 0) 0px 0px 10px;
+}
+
+.fondo1{
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/administrativa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+
+.fondo2{
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/instituciones1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondo3{
+    width: 100%;
+    height: 400px;
+    background-image: url(../images/londres.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.posicion {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100%; 
+    text-align: center;
+}
+.slider{
+    z-index: 1;
+}
+
+.tamañoh5{
+    font-size: 13px;
+}
+
+.tamañop{
+    font-size: 15px;
+}
